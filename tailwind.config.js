@@ -6,10 +6,7 @@ export default {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'hero-pattern': "url('/assets/HeroLaptop-ae6f523d.webp')",
-        
-      }}
+      }
   },
   plugins: [],
 }
